@@ -430,10 +430,14 @@ footer {
     }
 }
 
+.efecto-img:hover {
+    transform: scale(1.2);
+}
 
 #lista-de-productos img {
     max-width: 100%;
     height: auto;
+
 }
 
 .precio {
